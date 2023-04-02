@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Tic Tac Toe Game</title>
+		<link rel="stylesheet" href="./src/style.min.css" />
+		<script src="./src/script.js" defer></script>
+	</head>
+	<body>
+		<div id="container">
+			<h1>Tic Tac Toe Game</h1>
+			<br /><br />
+			<div id="moves">
+				<span class="moves-player" id="m0">
+					<div class="icon-container">
+						<div class="cross-icon"></div>
+					</div>
+				</span>
+				<span class="moves-player" id="m1">
+					<div class="icon-container">
+						<div class="circle-icon"></div>
+					</div>
+				</span>
+			</div>
+			<br /><br />
+
+			<div id="game-content">
+				<div class="field" id="p1"></div>
+				<div class="field" id="p2"></div>
+				<div class="field" id="p3"></div>
+				<div class="field" id="p4"></div>
+				<div class="field" id="p5"></div>
+				<div class="field" id="p6"></div>
+				<div class="field" id="p7"></div>
+				<div class="field" id="p8"></div>
+				<div class="field" id="p9"></div>
+			</div>
+			<div id="winning-game">
+				<span>Win!</span>
+				<div id="winning-game-icon"></div>
+			</div>
+		</div>
+	</body>
+</html>
