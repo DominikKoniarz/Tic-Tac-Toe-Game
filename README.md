@@ -10,3 +10,6 @@ There are preparations for expand project in some new feautures:
 
 # Enjoy!
 Play [here](https://dominikkoniarz.github.io/Tic-Tac-Toe-Game/).
+
+# References
+Icons from [open source](https://ionic.io/ionicons). 
