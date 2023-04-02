@@ -5,8 +5,8 @@ Simple Tic Tac Toe Game to play with your friend.
 The mission of this project was to create simple, well known game and simultaneously train how to build app logic from scratch.
 This is a very first version of app, where you can play against second player (using one device).
 There are preparations for expand project in some new feautures:
-1. the ability to choose which player you want to start playing,
-2. game mode where you could play against computer
+1. The ability to choose which player you want to start playing,
+2. Game mode where you could play against computer
 
 # Enjoy!
-Play [here](https://dominikkoniarz.github.io/Tic-Tac-Toe-Game/)
+Play [here](https://dominikkoniarz.github.io/Tic-Tac-Toe-Game/).
